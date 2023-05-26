@@ -1,4 +1,4 @@
-# Heavy Motors Management System: PHP Point of Sale (POS) Application for Online Retail
+# Heavy Motors Management System: PHP Point of Sale (POS) Application for Online Retail 
 
 The Heavy Motors Management System is a client project involving the development of a PHP web-based Point of Sale (POS) application. This online POS system serves as an efficient and comprehensive platform for managing retail operations for heavy motors and automotive parts. Designed with usability and functionality in mind, the Heavy Motors Management System provides a seamless and secure online retail experience for customers and administrators.
 
